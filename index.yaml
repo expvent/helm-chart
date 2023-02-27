@@ -3,9 +3,9 @@ entries:
   nsq:
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2023-02-28T02:36:11.242070881+08:00"
+    created: "2023-02-28T02:43:35.287392626+08:00"
     description: A realtime distributed messaging platform
-    digest: 99ffdb9e79ba5cde328682d4b850d7eead65d0f6dea82742b159f4f4671ae2de
+    digest: 451d531ccb0165bf18a36123bcaf265a5625b63a7cdbd4dbe754b0dcbbeb1e50
     home: https://github.com/nsqio/helm-chart/tree/master/charts/nsq
     icon: https://nsq.io/static/img/nsq_blue.png
     keywords:
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://helm.expvent.com/nsq-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-28T02:36:11.241421858+08:00"
+generated: "2023-02-28T02:43:35.284311897+08:00"
