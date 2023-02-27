@@ -3,9 +3,9 @@ entries:
   nsq:
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2023-02-28T01:07:41.4742245+08:00"
+    created: "2023-02-28T02:36:11.242070881+08:00"
     description: A realtime distributed messaging platform
-    digest: 273ef8efd03d13f5bcc080c40fc5e0f0d7049bb885e45d915e7115152202d1e0
+    digest: 99ffdb9e79ba5cde328682d4b850d7eead65d0f6dea82742b159f4f4671ae2de
     home: https://github.com/nsqio/helm-chart/tree/master/charts/nsq
     icon: https://nsq.io/static/img/nsq_blue.png
     keywords:
@@ -18,10 +18,10 @@ entries:
       name: BeeInventor
     name: nsq
     sources:
-    - https://github.com/nsqio/helm-chart/tree/master/charts/nsq
+    - https://github.com/expvent/helm-chart/tree/master/charts/nsq
     - https://nsq.io/
     type: application
     urls:
-    - https://helm.expvent.com/nsq-0.0.6.tgz
-    version: 0.0.6
-generated: "2023-02-28T01:07:41.472408368+08:00"
+    - https://helm.expvent.com/nsq-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-02-28T02:36:11.241421858+08:00"
